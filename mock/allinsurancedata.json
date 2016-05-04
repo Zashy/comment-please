@@ -1,0 +1,378 @@
+{
+  "totals": {
+    "totalNetCashValue": "$10,000,000.00",
+    "totalAnnualPremium": "$3,000/mo",
+    "totalInvestedAssets": "$10,000,000.00",
+    "totalNetDeathBenefit": "$7,357.00",
+    "totalLoan": "$8,4560.00",
+    "insureds": [
+      {
+        "coverage": [
+          "Life Insurance",
+          "Disability Income",
+          "Business Disability Insurance"
+        ],
+        "insuredName": "Callie Avery",
+        "numProducts": 7,
+        "owner": "Multiple Owners",
+        "totalAnnualPremium": "$22,7357.00",
+        "totalLoan": "$8,4560.00",
+        "totalNetDeathBenefit": "$3,673,747.00",
+        "totalNetCashValue": "$78,134.63",
+        "totalInvestedAssets": "$40,000,000.00"
+      },
+      {
+        "coverage": [
+          "Life Insurance",
+          "Disability Income"
+        ],
+        "insuredName": "John Avery",
+        "numProducts": 4,
+        "owner": "",
+        "totalAnnualPremium": "$22,7357.00",
+        "totalLoan": "$0.00",
+        "totalNetDeathBenefit": "$3,673,747.00",
+        "totalNetCashValue": "$78,134.63",
+        "totalInvestedAssets": "$40,000,000.00"
+      },
+      {
+        "coverage": [
+          "Life Insurance"
+        ],
+        "insuredName": "Adam Avery",
+        "numProducts": 1,
+        "owner": "Hudson L Landers",
+        "totalAnnualPremium": "$22,7357.00",
+        "totalLoan": "$0.00",
+        "totalNetDeathBenefit": "$3,673,747.00",
+        "totalNetCashValue": "$78,134.63",
+        "totalInvestedAssets": "$40,000,000.00"
+      }
+    ]
+  },
+  "lifeSection": [
+    {
+      "netDeathBenefit": "$2,000,000.00",
+      "productNumber": "xxxx4842",
+      "productType": "ESTATE COMPLIFE",
+      "owner": "Irrevocable Trust",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$0.00",
+      "productNumber": "xxxx4434",
+      "productType": "LEVEL TERM 20",
+      "owner": "Softek Partners Inc",
+      "insured": "Stacey Marino"
+    },
+    {
+      "netDeathBenefit": "$48,452.00",
+      "productNumber": "xxxx3468",
+      "productType": "PAID UP LIFE",
+      "owner": "",
+      "insured": "M Connie Andres"
+    },
+    {
+      "netDeathBenefit": "$295,559.00",
+      "productNumber": "xxxx1441",
+      "productType": "65 LIFE",
+      "owner": "",
+      "insured": "Marshall C Barnes"
+    },
+    {
+      "netDeathBenefit": "$104,224.00",
+      "productNumber": "xxxx3034",
+      "productType": "90 LIFE",
+      "owner": "Matthew L Blandford",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$151,201.00",
+      "productNumber": "xxxx3656",
+      "productType": "SELECT 100",
+      "owner": "Irrevocable Trust",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$540,381.00",
+      "productNumber": "xxxx1481",
+      "productType": "ADJUSTABLE COMPLIFE",
+      "owner": "Meredith Barnes Trust",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$56,921.00",
+      "productNumber": "xxxx2540",
+      "productType": "ADJUSTABLE COMPLIFE",
+      "owner": "D R E A M  Foundation",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$162,683.00",
+      "productNumber": "xxxx8905",
+      "productType": "SELECT 100",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$162,904.00",
+      "productNumber": "xxxx2151",
+      "productType": "SELECT 100",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$108,274.00",
+      "productNumber": "xxxx9009",
+      "productType": "SELECT 100",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$109,755.00",
+      "productNumber": "xxxx3905",
+      "productType": "SELECT 100",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$444,529.00",
+      "productNumber": "xxxx3813",
+      "productType": "65 LIFE",
+      "owner": "Irrevocable Trust",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": null,
+      "productNumber": "xxxx7887",
+      "productType": "LEVEL TERM 20",
+      "owner": "Westonka Bus Service",
+      "insured": "Andrew G Bright"
+    },
+    {
+      "netDeathBenefit": "$22,418.00",
+      "productNumber": "xxxx6753",
+      "productType": "90 LIFE",
+      "owner": "James M Buitt Sr",
+      "insured": "James M Buitt"
+    },
+    {
+      "netDeathBenefit": "$128,581.00",
+      "productNumber": "xxxx2159",
+      "productType": "ADJUSTABLE COMPLIFE",
+      "owner": "Fountain Power Boats",
+      "insured": "Reginald M Fountain Jr"
+    },
+    {
+      "netDeathBenefit": "$74,227.00",
+      "productNumber": "xxxx5242",
+      "productType": "90 LIFE",
+      "owner": "Barbara I Konradi",
+      "insured": "Barbara I Konradi"
+    },
+    {
+      "netDeathBenefit": "$29,274.00",
+      "productNumber": "xxxx1071",
+      "productType": "65 LIFE-FMR 65 EOL",
+      "owner": "Barbara I Konradi",
+      "insured": "Barbara I Konradi"
+    },
+    {
+      "netDeathBenefit": "$34,295.00",
+      "productNumber": "xxx6351",
+      "productType": "WHOLE LIFE",
+      "owner": "Barbara I Konradi",
+      "insured": "Barbara I Konradi"
+    },
+    {
+      "netDeathBenefit": "$18,818.00",
+      "productNumber": "xxxx8381",
+      "productType": "65 LIFE",
+      "owner": "Barbara I Konradi",
+      "insured": "Paige K Konradi"
+    },
+    {
+      "netDeathBenefit": "$0.00",
+      "productNumber": "xxxx4377",
+      "productType": "TERM 10",
+      "owner": "Softek Partners Inc",
+      "insured": "Sharon F Merrill"
+    },
+    {
+      "netDeathBenefit": "$357,998.00",
+      "productNumber": "xxxx2213",
+      "productType": "ADJUSTABLE COMPLIFE",
+      "owner": "Jeffrey M Reiland",
+      "insured": "Jeffrey M Reiland"
+    },
+    {
+      "netDeathBenefit": "$200,000.00",
+      "productNumber": "xxxx2742",
+      "productType": "ADJUSTABLE COMPLIFE",
+      "owner": "Jeffrey M Reiland",
+      "insured": "Jeffrey M Reiland"
+    }
+  ],
+  "bdisection": [
+    {
+      "monthlyBenefit": "$5,000/24 Mo/Aggr Ben",
+      "productNumber": "xxxx3612",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$200/12 Mo/Aggr Ben",
+      "productNumber": "xxxx4621",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,500/24 Mo/Aggr Ben",
+      "productNumber": "xxxx6280",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/12 Mo/Aggr Ben",
+      "productNumber": "xxxx7234",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$2,500/12 Mo/Aggr Ben",
+      "productNumber": "xxxx4539",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/12 Mo/Aggr Ben",
+      "productNumber": "xxx9222",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/12 Mo/Aggr Ben",
+      "productNumber": "xxx4922",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/24 Mo/Aggr Ben",
+      "productNumber": "xxx1575",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    }
+  ],
+  "variablelifesection": [
+    {
+      "netDeathBenefit": "$232,502.00",
+      "productNumber": "xxxx6363",
+      "productType": "VARIABLE COMPLIFE",
+      "owner": "Univ Of North Carolin",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$114,631.00",
+      "productNumber": "xxxx6645",
+      "productType": "VARIABLE WHOLE LIFE",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "netDeathBenefit": "$333,659.00",
+      "productNumber": "xxxx8732",
+      "productType": "VARIABLE WHOLE LIFE",
+      "owner": "",
+      "insured": "Mitchell N Barnes"
+    }
+  ],
+  "ltcsection": [
+    {
+      "maximumBenefit": "$80.00 Daily",
+      "productNumber": "xxxx8123",
+      "productType": "QCRS - LTC Quietcare",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "maximumBenefit": "$170.00 Daily",
+      "productNumber": "xxxx9736",
+      "productType": "QCRS - LTC Quietcare",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "maximumBenefit": "$110.00 Daily",
+      "productNumber": "xxxx9197",
+      "productType": "QCRS - LTC Quietcare",
+      "owner": "Kimbra L Jossart",
+      "insured": "Kimbra L Jossart"
+    }
+  ],
+  "disection": [
+    {
+      "monthlyBenefit": "$5,000/24 Mo/Aggr Ben",
+      "productNumber": "xxxx3612",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$200/12 Mo/Aggr Ben",
+      "productNumber": "xxxx4621",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,500/24 Mo/Aggr Ben",
+      "productNumber": "xxxx6280",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/12 Mo/Aggr Ben",
+      "productNumber": "xxxx7234",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$2,500/12 Mo/Aggr Ben",
+      "productNumber": "xxxx4539",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/12 Mo/Aggr Ben",
+      "productNumber": "xxx9222",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/12 Mo/Aggr Ben",
+      "productNumber": "xxx4922",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    },
+    {
+      "monthlyBenefit": "$1,000/24 Mo/Aggr Ben",
+      "productNumber": "xxx1575",
+      "productType": "OVHD EXP",
+      "owner": "",
+      "insured": "Mitchell C Barnes"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+@import "colors";
+
+// TODO: Refactor (ProductSection component?)
+.product-section {
+    //For generic styles of the product sections
+    $side-padding: 2rem;
+    padding-left: $side-padding;
+    padding-right: $side-padding;
+
+    h3 {
+        border-bottom: 1px solid $sidewalk-grey;
+        position: relative;
+
+        span {
+            border-bottom: 5px solid $sidewalk-grey;
+        }
+
+        &:after {
+            content: '';
+            position: absolute;
+            border-left: 8px solid white;
+            height: 6px;
+            top: 1.05em;
+            left: 0;
+        }
+    }
+
+    table {
+        width:100%;
+
+
+        .icon-expand {
+            color: $royal-blue;
+            font-size: 2.25rem;
+        }
+        .owner-label {
+            display: block;
+            color: $carbon-grey;
+        }
+
+        td:nth-last-child(-n+2) {
+
+            text-align: right;
+
+        }
+        th:nth-last-child(-n+2) {
+            text-align: right;
+        }
+
+        td {
+            //  This will probs get called out soon
+            //vertical-align: top;
+        }
+
+    }
+
+}

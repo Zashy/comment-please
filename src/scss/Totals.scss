@@ -1,0 +1,38 @@
+@import 'colors';
+
+// TODO: Change to .Totals
+.totals {
+    &-section {
+        width: 100%;
+        .totals-hide {
+            display: none;
+        }
+    }
+    &-header {
+    }
+    &-content {
+        .totals-content-row {
+            border:none;
+        }
+    }
+    &-footer {
+        .totals-cell {
+            text-align: left;
+            padding: .75rem;
+        }
+    }
+    &-cell {
+        vertical-align: top;
+
+        a:visited {
+            color: #0068B3;
+        }
+    }
+    &-loan-value {
+        color: $cinnamon-red;
+    }
+    .card {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
